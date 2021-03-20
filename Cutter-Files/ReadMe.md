@@ -1,0 +1,1 @@
+The Cutter Files are an assortment of cutting and folding pattern file templates which are meant to be used in a paper or board cutting device software. Included in here are Flat Pattern files which provide the proper dimension to scale these templates in to the appropriate sizes within the cutter UI or interface. Please see our "Kit Manufacturing" video for further details.
